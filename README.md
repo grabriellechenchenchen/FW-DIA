@@ -1,10 +1,10 @@
 # FW-DIA
 
 # Software Requirements:
-FLASHDeconv version: OpenMS-3.0.0
-Unidec version: v.6.0.4
-TopFD version: v.1.6.2
-TopPIC version: v.1.6.2
+FLASHDeconv version: OpenMS-3.0.0<br />
+Unidec version: v.6.0.4<br />
+TopFD version: v.1.6.2<br />
+TopPIC version: v.1.6.2 <br />
 
 
 # Environment:
